@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0, 0, 216, 216">
+<title>Arp Teknoloji</title>
+  <g id="Layer_1" transform="translate(-532.616, -50.83)">
+    <g>
+      <g>
+        <path d="M625.555,203.936 C558.294,215.914 533.803,181.059 534.119,141.368 C534.467,97.53 577.481,57.343 625.555,52.891 C673.166,48.481 713.361,69.918 705.011,123.452 C700.281,153.772 676.634,194.841 625.555,203.936 z" fill="#CB1328"/>
+        <path d="M625.555,203.936 C558.294,215.914 533.803,181.059 534.119,141.368 C534.467,97.53 577.481,57.343 625.555,52.891 C673.166,48.481 713.361,69.918 705.011,123.452 C700.281,153.772 676.634,194.841 625.555,203.936 z" fill-opacity="0" stroke="#CB1328" stroke-width="0.25"/>
+      </g>
+      <path d="M602.374,106.086 C614.547,94.157 631.781,85.067 642.34,93.078 C655.901,103.365 645.193,132.685 639.35,142.331 C597.315,211.73 556.38,121.176 639.584,126.146" fill-opacity="0" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
